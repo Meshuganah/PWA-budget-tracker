@@ -23,6 +23,6 @@ once connection has been restored.
 The app will track all transactions entered while offline, and alert the user once
 connection has been restored, and transactions have been added to the data base. 
 
-https://dashboard.heroku.com/apps/frozen-peak-81960/settings
+https://frozen-peak-81960.herokuapp.com/
 
 ![preview](https://user-images.githubusercontent.com/98676392/175434882-b5d76c34-d614-4236-bd83-11e4f2433f56.JPG)
